@@ -1,5 +1,6 @@
 # MVP
 MVP 패턴 사용
+Model + View + Presenter
 
 ![image](https://github.com/SW0929/MVP/assets/97885055/1c9055f4-7328-48ce-8ce1-25016f538489)
 
