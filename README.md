@@ -12,3 +12,7 @@ Model + View + Presenter
 
 장점
 - 비슷한 종료의 activity가 생겼을 때 손쉽게 이식 가능
+
+Reference
+- [https://github.com/you6878/howlmvvm.git](https://github.com/you6878/howlmvvm.git)
+- https://www.youtube.com/watch?v=LyYRTcyKJIU
